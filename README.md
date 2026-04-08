@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm R.L. Dissanayake
 
-<!--
-**RLDissanayake/RLDissanayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 1st Year Software Engineering Student at The Open University of Sri Lanka  
+💻 Passionate about problem solving and web development  
 
-Here are some ideas to get you started:
+## 🚀 What I'm Currently Doing
+- Working on a Bakery Management Web Application  
+- Strengthening full-stack development skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies
+- HTML
+- CSS
+- JavaScript
+- Vue.js
+- PHP
+- MySQL
+- React Native
+
+## 📌 Goals
+- Become a Full-Stack Developer  
+- Build real-world scalable applications  
+- Improve problem-solving and system design skills  
+
+## 📫 Contact
+- Email: rowinyadissanayake@gmail.com
