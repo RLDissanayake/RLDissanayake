@@ -14,6 +14,7 @@
 - Vue.js
 - PHP
 - MySQL
+- Python
 - React Native
 
 ## 📌 Goals
